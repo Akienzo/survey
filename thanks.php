@@ -25,6 +25,7 @@
 
         print $nickname;
         print'様<br>';
+        print'様<br>';
         print'ご意見ありがとうございませんでした。<br>';
         print'頂いたご意見『';
         print'$goiken';
